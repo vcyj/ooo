@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home_str" />
+    <item
+        android:id="@+id/sleep"
+        android:title="@string/sleep_str" />
+    <item
+        android:id="@+id/meditate"
+        android:title="@string/meditate_str" />
+    <item
+        android:id="@+id/mrore"
+        android:title="@string/more_str" />
+</menu>

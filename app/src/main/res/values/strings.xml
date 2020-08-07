@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="helloworld">666666666666666666</string>
+    <string name="home_str">Home</string>
+    <string name="sleep_str"> Sleep</string>
+    <string name="meditate_str">Meditate</string>
+    <string name="more_str">More</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button">Button</string>
+    <string name="btn_nameStart">Start</string>
+</resources>
